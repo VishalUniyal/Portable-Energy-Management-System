@@ -21,7 +21,7 @@
     "react": "15.6.1"
   },
   "devDependencies": {
-    "electron": "1.7.6",
+    "electron": "9.4.0",
     "electron-builder": "^19.33.0"
   }
 }
